@@ -1,1 +1,1 @@
-Learning basics of bash scripting
+Learn shell scripting basics
